@@ -9,3 +9,5 @@ Just click the links and explore them!
 - [Endless runner game](https://hi2-one.vercel.app/)
 - [Dragon Slayer]()
 - [Web Analyzer](https://web-analyzer-ein05.streamlit.app/)
+- [Clarity Dapp Interface](https://steady-kangaroo-8e6e2d.netlify.app/)
+- [Blockchain Time Capsule](https://lively-truffle-7c085a.netlify.app/)
