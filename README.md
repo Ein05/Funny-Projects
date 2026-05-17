@@ -8,3 +8,4 @@ Just click the links and explore them!
 - [2D AI gf]()
 - [Endless runner game](https://hi2-one.vercel.app/)
 - [Dragon Slayer]()
+- [Web Analyzer](https://web-analyzer-ein05.streamlit.app/)
