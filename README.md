@@ -11,3 +11,4 @@ Just click the links and explore them!
 - [Web Analyzer](https://web-analyzer-ein05.streamlit.app/)
 - [Clarity Dapp Interface](https://steady-kangaroo-8e6e2d.netlify.app/)
 - [Blockchain Time Capsule](https://lively-truffle-7c085a.netlify.app/)
+- [UniDrink](https://uni-drink.vercel.app/)
